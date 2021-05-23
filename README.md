@@ -15,7 +15,7 @@
 
 *source ДиректорияВиртуальногоОкружения/bin/activate
 
-*Перейти в директорию django3-ecommerce
+*Перейти в директорию new_shop
 
 *pip install -r requirements.txt
 
